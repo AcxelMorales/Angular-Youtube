@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  apiKey: 'AIzaSyBywl17LKbSsrW1BvlOkgTPGurFkms8CBw',
+  apiKey: '',
   uploadsId: 'UUfhkGjoF4I8y3nBX5wpF94Q',
   youtubeUrl: 'https://www.googleapis.com/youtube/v3'
 };
